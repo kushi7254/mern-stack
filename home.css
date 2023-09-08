@@ -1,0 +1,19 @@
+.home {
+    display: flex;
+  flex-flow: column;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.heading  {
+    text-align: center;
+}
+.table{
+
+    display: flex;
+    justify-content: center;
+    
+}
